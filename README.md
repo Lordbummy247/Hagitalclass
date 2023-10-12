@@ -1,4 +1,4 @@
-## Cloud Engineer Program: git-lesson  
+## Cloud Engineer Program: Git-lesson  
 ## Download Git  Bash  
 - https://git-scm.com/downloads
 ## Configure Git Bash
