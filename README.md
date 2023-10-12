@@ -11,7 +11,7 @@
 - touch index.html "This command is used to create html file"
 - vim index.html "This command is used to edit the html file"
 - :wq "it is used to save the file and exit"
-## Clone Your Repo
+## Clone Your Repository
 - git remote add origin (url) "This is the url from the project Repo
 ## Push to Github  
 - git add index.html
